@@ -12,8 +12,8 @@ The dataset used for training and testing this model can be found [here](https:/
 
 ## Model Versions
 
-- **Version 1:** Built using Logistic Regression algorithm. Located in the master branch.
-- **Version 2:** Built using Random Forest algorithm. Located in the newly created branch new_model.
+- **Version 1:** Built using Logistic Regression algorithm. (Located in the master branch.)
+- **Version 2:** Built using Random Forest algorithm. (Located in the newly created branch new_model.)
 
 ## Contributors
 
